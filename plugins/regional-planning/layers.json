@@ -4,7 +4,7 @@
         "server": {
             "type": "ags",
             "layerType": "dynamic",
-            "url": "http://dev.services.coastalresilience.org/arcgis/rest/services/Jamaica",
+            "url": "http://services.coastalresilience.org/arcgis/rest/services/Jamaica",
             "name": "Natural_Coastal_Protection"
         },
         "includeLayers": [
