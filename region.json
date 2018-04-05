@@ -1,8 +1,8 @@
 {
     "googleAnalyticsPropertyId": "7401895-16",
     "googleUrlShortenerApiKey": "AIzaSyDO_xBd3griGKuhlYBvv7jVN4Mt58Gl4iw",
-    "titleMain": { "text": "Coastal Resilience", "url": "http://coastalresilience.org/" },
-    "titleDetail": { "text": "U.S. Virgin Islands", "url": "http://coastalresilience.org/project-areas/usvi-introduction" },
+    "titleMain": { "text": "Resilient Islands", "url": "http://coastalresilience.org/project/resilient-islands/" },
+    "titleDetail": { "text": "Jamaica", "url": "http://coastalresilience.org/project/jamaica/" },
     "headerLinks": [
         { "text": "GET STARTED", "launchpadId": "get-started", "url": "" },
 		{ "text": "TOUR", "url": "javascript:;", "elementId": "help-overlay-start"},
@@ -25,10 +25,10 @@
         { "text": "Legal Disclosure", "url": "http://www.nature.org/about-us/governance/terms-of-use.xml" }
     ],
     "initialExtent": [
-        -65.62,
-        17.443,
-        -63.984,
-        18.634
+        -78.494337723,
+        17.454362779,
+        -76.099351485,
+        18.787058743
     ],
     "basemaps": [
         { "name": "Topographic"        , "url": "http://server.arcgisonline.com/ArcGIS/rest/services/World_Topo_Map/MapServer" },
@@ -56,12 +56,12 @@
     },
     "identifyBlacklist": ["OBJECTID", "OBJECTID_1", "SHAPE", "Shape", "shape_Length", "shape_Area", "NumScen"],
     "launchpad": {
-            "title": "U.S. Virgin Islands",
+            "title": "Jamaica",
             "description": "Coastal Resilience is a decision support tool that provides local, state and national planners a step-wise process to guide decisions to reduce the ecological and socio-economic risks of coastal hazards.",
             "plugins": [
                 {
                     "title": "<img src='img/regional_planning.png' hspace=10>Regional Planning",
-                    "description": "Explore regional datasets across the islands.",
+                    "description": "Explore regional datasets across the island.",
                     "pluginName": "regional-planning"
                 }
             ],

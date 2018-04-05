@@ -1,42 +1,120 @@
 [
     {
-        "displayName": "Ecosystem Services",
+        "displayName": "Hazards",
         "server": {
             "type": "ags",
             "layerType": "dynamic",
-            "url": "http://services.coastalresilience.org/arcgis/rest/services/US_Virgin_Islands/",
-            "name": "USVI"
+            "url": "http://dev.services.coastalresilience.org/arcgis/rest/services/Jamaica",
+            "name": "Natural_Coastal_Protection"
         },
         "includeLayers": [
 			{
-				"name" : "Coastal Vulnerability",
-				"includeAllLayers" : true
-			},
-			{
-				"name" : "Coastal Protection",
-				"includeAllLayers" : true
-			},
-			{
-				"name" : "Recreation and Tourism",
-				"includeAllLayers" : true
-			},
-			{
-				"name" : "Habitats",
+				"name" : "Hazards",
 				"includeAllLayers" : true
 			}
 		]
 	},
 	{
-        "displayName": "Flood and Sea Level Rise",
+        "displayName": "Climate",
         "server": {
             "type": "ags",
             "layerType": "dynamic",
-            "url": "http://services.coastalresilience.org/arcgis/rest/services//US_Virgin_Islands/",
-            "name": "USVI"
+            "url": "http://dev.services.coastalresilience.org/arcgis/rest/services/Jamaica",
+            "name": "Natural_Coastal_Protection"
         },
         "includeLayers": [
 			{
-				"name" : "Sea Level Rise Vulnerability",
+				"name" : "Climate",
+				"includeAllLayers" : true
+			}
+		]
+	},
+	{
+        "displayName": "Freshwater",
+        "server": {
+            "type": "ags",
+            "layerType": "dynamic",
+            "url": "http://dev.services.coastalresilience.org/arcgis/rest/services/Jamaica",
+            "name": "Natural_Coastal_Protection"
+        },
+        "includeLayers": [
+			{
+				"name" : "Freshwater",
+				"includeAllLayers" : true
+			}
+		]
+	},
+	{
+        "displayName": "Infrastructure",
+        "server": {
+            "type": "ags",
+            "layerType": "dynamic",
+            "url": "http://dev.services.coastalresilience.org/arcgis/rest/services/Jamaica",
+            "name": "Natural_Coastal_Protection"
+        },
+        "includeLayers": [
+			{
+				"name" : "Infrastructure",
+				"includeAllLayers" : true
+			}
+		]
+	},
+	{
+        "displayName": "Marine Habitat",
+        "server": {
+            "type": "ags",
+            "layerType": "dynamic",
+            "url": "http://dev.services.coastalresilience.org/arcgis/rest/services/Jamaica",
+            "name": "Natural_Coastal_Protection"
+        },
+        "includeLayers": [
+			{
+				"name" : "Marine Habitat",
+				"includeAllLayers" : true
+			}
+		]
+	},
+	{
+        "displayName": "Socio-economic",
+        "server": {
+            "type": "ags",
+            "layerType": "dynamic",
+            "url": "http://dev.services.coastalresilience.org/arcgis/rest/services/Jamaica",
+            "name": "Natural_Coastal_Protection"
+        },
+        "includeLayers": [
+			{
+				"name" : "Socio-economic",
+				"includeAllLayers" : true
+			}
+		]
+	},
+	{
+        "displayName": "Political",
+        "server": {
+            "type": "ags",
+            "layerType": "dynamic",
+            "url": "http://dev.services.coastalresilience.org/arcgis/rest/services/Jamaica",
+            "name": "Natural_Coastal_Protection"
+        },
+        "includeLayers": [
+			{
+				"name" : "Political",
+				"includeAllLayers" : true
+			}
+		]
+	},
+	{
+        "displayName": "Landuse/Land Cover",
+        "server": {
+            "type": "ags",
+            "layerType": "dynamic",
+            "url": "http://dev.services.coastalresilience.org/arcgis/rest/services/Jamaica",
+            "name": "Natural_Coastal_Protection"
+        },
+        "includeLayers": [
+			{
+				"name" : "Landuse/Land cover",
 				"includeAllLayers" : true
 			}
 		]
