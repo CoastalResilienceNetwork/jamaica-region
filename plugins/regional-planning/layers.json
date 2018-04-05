@@ -13,10 +13,6 @@
 				"includeAllLayers" : true
 			},
 			{
-				"name" : "Climate",
-				"includeAllLayers" : true
-			},
-			{
 				"name" : "Freshwater",
 				"includeAllLayers" : true
 			},
