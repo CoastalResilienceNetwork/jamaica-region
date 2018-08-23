@@ -43,12 +43,12 @@
         "server": {
             "type": "ags",
             "layerType": "dynamic",
-            "url": "https://services6.arcgis.com/3R3y1KXaPJ9BFnsU/ArcGIS/rest/services/CRP100/FeatureServer/layers?f=pjson"
+            "url": "https://services6.arcgis.com/3R3y1KXaPJ9BFnsU/ArcGIS/rest/services/CRP100/FeatureServer?f=pjson"
         },
         "includeLayers": [
         	{
         		  "name": "CRP100_1",
-                   "displayName": "Selected for Community Renewal Programme"
+                  "displayName": "Selected for Community Renewal Programme"
         		}
               ]
     }
