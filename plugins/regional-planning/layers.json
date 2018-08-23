@@ -35,24 +35,24 @@
 			{
 				"name" : "Landuse/Land cover",
 				"includeAllLayers" : true
-			},
-			{
-        		"displayName": "STATIN",
-        		"server": {
-            		"type": "ags",
-            		"layerType": "dynamic",
-            		"url": "https://services6.arcgis.com/3R3y1KXaPJ9BFnsU/ArcGIS/rest/services"
+			}
+		]
+	},
+	{
+        "displayName": "STATIN",
+        "server": {
+            "type": "ags",
+            "layerType": "dynamic",
+            "url": "https://services6.arcgis.com/3R3y1KXaPJ9BFnsU/ArcGIS/rest/services"
+        },
+        "includeLayers": [
+        	{
+        		"server":{
+        			"name": "CRP100"
         		},
-        		"includeLayers": [
-        			{
-        				"server":{
-        					"name": "CRP100"
-        				},
-                        "name": "CRP100_1",
-                        "displayName": "Selected for Community Renewal Programme"
-                    }
-                ]
-    		}
-    	]
+                      "name": "CRP100_1",
+                      "displayName": "Selected for Community Renewal Programme"
+                  }
+              ]
     }
 ]
