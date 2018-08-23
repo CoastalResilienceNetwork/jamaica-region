@@ -41,15 +41,15 @@
         		"server": {
             		"type": "ags",
             		"layerType": "dynamic",
-            		"url": "https://services6.arcgis.com/3R3y1KXaPJ9BFnsU/ArcGIS/rest/services/CRP100/FeatureServer"
+            		"url": "https://services6.arcgis.com/3R3y1KXaPJ9BFnsU/ArcGIS/rest/services"
         		},
         		"includeLayers": [
         			{
         				"server":{
-        					"name": "CRP100_1"
+        					"name": "CRP100"
         				},
                         "name": "CRP100_1",
-                        "displayName": "100 Most Vulnerable Communities"
+                        "displayName": "Selected for Community Renewal Programme"
                     }
                 ]
     		}
