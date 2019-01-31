@@ -51,7 +51,7 @@
     "identifyBlacklist": ["OBJECTID", "OBJECTID_1", "SHAPE", "Shape", "shape_Length", "shape_Area", "NumScen"],
     "launchpad": {
             "title": "Jamaica",
-            "description": "Coastal Resilience is a decision support tool that provides local, state and national planners a step-wise process to guide decisions to reduce the ecological and socio-economic risks of coastal hazards.",
+            "description": "Coastal Resilience is a decision support tool that provides local and national planners a step-wise process to guide decisions to reduce the ecological and socio-economic risks of coastal hazards. This portal contains ecological layers, models of sea level rise and flood risk, and indicators of socioeconomic, physical, and demographic vulnerability. Spatial comparison of this data can guide disaster preparedness, climate change adaptation, and coastal planning. <br><br>Users may identify, assess, and monitor risk to enhance early warning systems. This portal is designed to promote knowledge sharing and education, demonstrate scientific innovation, and facilitate resilience. Data can help users to better understand underlying risk factors such as environmental degradation, strengthen preparedness for effective response, and ultimately guide and strengthen policies and institutions.<br><br>For more information, visit: <a href= 'https://coastalresilience.org/project/jamaica/' target='_blank'><b>Jamaica</b></a><br><br>For best results, it is recommended to access this data portal using Google Chrome.",
             "plugins": [
                 {
                     "title": "<img src='img/regional_planning.png' hspace=10>Regional Planning",
@@ -64,7 +64,22 @@
                     "logoPath": "img/TNCLogoPrimary_RGB.png",
                     "link": "http://nature.org",
                     "title": "The Nature Conservancy"
-            }
+            	},
+            	{
+                    "logoPath": "img/Resized_IFRC_logo",
+                    "link": "https://media.ifrc.org/ifrc/",
+                    "title": "IFRC"
+            	},
+            	{
+                    "logoPath": "img/Resized_JamaicaRedCross_logo",
+                    "link": "https://redcross.org.jm/",
+                    "title": "Jamaica Red Cross"
+            	},
+            	{
+                    "logoPath": "img/ResizeD_ODPEM_Logo",
+                    "link": "http://www.odpem.org.jm/",
+                    "title": "ODPEM"
+            	}
         ]
     }
 }
