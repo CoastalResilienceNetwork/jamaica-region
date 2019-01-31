@@ -66,17 +66,17 @@
                     "title": "The Nature Conservancy"
             	},
             	{
-                    "logoPath": "img/Resized_IFRC_logo",
+                    "logoPath": "img/Resized_IFRC_logo.png",
                     "link": "https://media.ifrc.org/ifrc/",
                     "title": "IFRC"
             	},
             	{
-                    "logoPath": "img/Resized_JamaicaRedCross_logo",
+                    "logoPath": "img/Resized_JamaicaRedCross_logo.png",
                     "link": "https://redcross.org.jm/",
                     "title": "Jamaica Red Cross"
             	},
             	{
-                    "logoPath": "img/ResizeD_ODPEM_Logo",
+                    "logoPath": "img/ResizeD_ODPEM_Logo.jpg",
                     "link": "http://www.odpem.org.jm/",
                     "title": "ODPEM"
             	}
