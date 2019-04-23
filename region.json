@@ -5,7 +5,7 @@
     "titleDetail": { "text": "Jamaica", "url": "https://coastalresilience.org/project/jamaica/" },
     "singlePluginMode": {
         "active": true,
-        "pluginFolderName": "natural-coastal-protection"
+        "pluginFolderName": "natural_coastal_protection"
     },
     "headerLinks": [
         { "text": "GET STARTED", "launchpadId": "get-started", "url": "" },
