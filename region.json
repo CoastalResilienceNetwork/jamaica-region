@@ -8,22 +8,6 @@
         "pluginFolderName": "natural_coastal_protection"
     },
     "headerLinks": [
-        { "text": "GET STARTED", "launchpadId": "get-started", "url": "" },
-		{ "text": "TOUR", "url": "javascript:;", "elementId": "help-overlay-start"},
-        { "text": "GO TO", "url": "#", "items": [
-                { "text": "California", "url": "https://maps.coastalresilience.org/california/" },
-                { "text": "Connecticut", "url": "https://maps.coastalresilience.org/connecticut" },
-                { "text": "Global", "url": "https://maps.coastalresilience.org/global/" },
-                { "text": "Gulf of Mexico", "url": "https://maps.coastalresilience.org/gulfmex/" },
-                { "text": "Grenada, St. Vincent & the Grenadines", "url": "https://maps.coastalresilience.org/gsvg/" },
-                { "text": "MesoAmerican Reef", "url": "https://maps.coastalresilience.org/mar/" },
-                { "text": "New York", "url": "https://maps.coastalresilience.org/newyork" },
-                { "text": "New Jersey", "url": "https://maps.coastalresilience.org/newjersey" },
-                { "text": "Southeast Florida", "url": "https://maps.coastalresilience.org/seflorida/" },
-                { "text": "United States", "url": "https://maps.coastalresilience.org/unitedstates/" },
-                { "text": "Washington", "url": "https://maps.coastalresilience.org/pugetsound" }
-            ]
-        },
         { "text": "The Nature Conservancy", "url": "https://nature.org/marine/" },
         { "text": "Partners", "url": "partners.html", "popup": true },
         { "text": "Legal Disclosure", "url": "https://www.nature.org/about-us/governance/terms-of-use.xml" }
