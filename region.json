@@ -2,23 +2,11 @@
     "googleUrlShortenerApiKey": "AIzaSyDO_xBd3griGKuhlYBvv7jVN4Mt58Gl4iw",
     "titleMain": { "text": "Resilient Islands", "url": "https://coastalresilience.org/project/resilient-islands/" },
     "titleDetail": { "text": "Jamaica", "url": "https://coastalresilience.org/project/jamaica/" },
+    "singlePluginMode": {
+        "active": true,
+        "pluginFolderName": "natural_coastal_protection"
+    },
     "headerLinks": [
-        { "text": "GET STARTED", "launchpadId": "get-started", "url": "" },
-		{ "text": "TOUR", "url": "javascript:;", "elementId": "help-overlay-start"},
-        { "text": "GO TO", "url": "#", "items": [
-                { "text": "California", "url": "https://maps.coastalresilience.org/california/" },
-                { "text": "Connecticut", "url": "https://maps.coastalresilience.org/connecticut" },
-                { "text": "Global", "url": "https://maps.coastalresilience.org/global/" },
-                { "text": "Gulf of Mexico", "url": "https://maps.coastalresilience.org/gulfmex/" },
-                { "text": "Grenada, St. Vincent & the Grenadines", "url": "https://maps.coastalresilience.org/gsvg/" },
-                { "text": "MesoAmerican Reef", "url": "https://maps.coastalresilience.org/mar/" },
-                { "text": "New York", "url": "https://maps.coastalresilience.org/newyork" },
-                { "text": "New Jersey", "url": "https://maps.coastalresilience.org/newjersey" },
-                { "text": "Southeast Florida", "url": "https://maps.coastalresilience.org/seflorida/" },
-                { "text": "United States", "url": "https://maps.coastalresilience.org/unitedstates/" },
-                { "text": "Washington", "url": "https://maps.coastalresilience.org/pugetsound" }
-            ]
-        },
         { "text": "The Nature Conservancy", "url": "https://nature.org/marine/" },
         { "text": "Partners", "url": "partners.html", "popup": true },
         { "text": "Legal Disclosure", "url": "https://www.nature.org/about-us/governance/terms-of-use.xml" }
@@ -30,8 +18,8 @@
         18.787058743
     ],
     "basemaps": [
-        { "name": "OpenStreetMap"      , "url": "" }, 
-        { "name": "Imagery"            , "url": "https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer" }
+        { "name": "OpenStreetMap"      , "url": "" },
+        { "name": "Imagery"            , "url": "http://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer" }
     ],
     "pluginOrder": [
         "regional-planning",
