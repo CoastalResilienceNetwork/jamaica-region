@@ -6,6 +6,11 @@
     <div style="text-align:center;">
 	<button class="button button-primary openApp">Get Started</button>
     </div>
+    <script>
+        $(".openApp").click(function(c){
+	    $(c.currentTarget).parent().parent().parent().find(".button-link").trigger("click")
+        })
+    </script>
 </ul>
 	    
 <h3 class="i18n" data-i18n="Partners">Partners</h3>
@@ -56,10 +61,6 @@
 	
     </ul>
 </div>
-<script>
-    $(".openApp").click(function(c){
-	$(c.currentTarget).parent().parent().parent().find(".button-link").trigger("click")
-    })
-</script>
+
 
 
