@@ -4,7 +4,8 @@
     "titleDetail": { "text": "Jamaica", "url": "https://coastalresilience.org/project/jamaica/" },
     "singlePluginMode": {
         "active": true,
-        "pluginFolderName": "natural_coastal_protection"
+        "pluginFolderName": "natural_coastal_protection",
+        "enableAddressSearch": true
     },
     "headerLinks": [
         { "text": "The Nature Conservancy", "url": "https://nature.org/marine/" },
@@ -38,7 +39,7 @@
     "identifyBlacklist": ["OBJECTID", "OBJECTID_1", "SHAPE", "Shape", "shape_Length", "shape_Area", "NumScen"],
     "launchpad": {
             "title": "Jamaica",
-            "description": "Coastal Resilience is a decision support tool that provides local and national planners a step-wise process to guide decisions to reduce the ecological and socio-economic risks of coastal hazards. This portal contains ecological layers, models of sea level rise and flood risk, and indicators of socioeconomic, physical, and demographic vulnerability. Spatial comparison of this data can guide disaster preparedness, climate change adaptation, and coastal planning. For more information, visit: <a href= 'https://coastalresilience.org/project/jamaica/' target='_blank'><b>Jamaica</b></a><br><br>For best results, it is recommended to access this data portal using Google Chrome.",
+            "description": "Coastal Resilience is a decision support tool that provides local and national planners a step-wise process to guide decisions to reduce the ecological and socio-economic risks of coastal hazards. This portal contains ecological layers, models of sea level rise and flood risk, and indicators of socioeconomic, physical, and demographic vulnerability. Spatial comparison of this data can guide disaster preparedness, climate change adaptation, and coastal planning. For more information, visit: <a href= 'https://coastalresilience.org/project/jamaica/' target='_blank'><b>Jamaica</b></a><br><div style="list-style-type: none;text-align:center;"><a class="button button-primary" href="https://media.coastalresilience.org/Resilient_Islands/Jamaica_SnapShot.pdf" target="_blank">Download Country Snapshot</a></div>For best results, it is recommended to access this data portal using Google Chrome.",
             "plugins": [
                 {
                     "title": "<img src='img/regional_planning.png' hspace=10>Regional Planning",
